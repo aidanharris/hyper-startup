@@ -1,12 +1,11 @@
 {
-  "name": "hyper-run",
-  "version": "0.1",
-  "description": "Run commands before Hyper starts",
+  "name": "hyper-startup",
+  "version": "0.1.0",
+  "description": "A Hyper extension to execute commands on launch.",
   "main": "index.js",
-  "repository": "DanInglis/hyper-run",
-  "author": "Dan dandaninglis@gmail.com",
-  "dependencies": {
-  },
+  "repository": "curz46/hyper-startup",
+  "author": "d.46.curzon@hotmail.co.uk",
+  "dependencies": {},
   "keywords": [
     "hyper",
     "hyper.app",
