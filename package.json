@@ -1,6 +1,6 @@
 {
   "name": "hyper-startup",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Hyper extension to execute commands on launch.",
   "main": "index.js",
   "repository": "curz46/hyper-startup",
